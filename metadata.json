@@ -1,0 +1,6 @@
+{
+  "name": "Dam-Break Flood Simulation",
+  "description": "Professional GIS hydraulic analysis and emergency-response simulation workstation with interactive 3D terrain and dynamic flood-wave propagation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
