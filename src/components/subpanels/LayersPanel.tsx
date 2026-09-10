@@ -34,7 +34,7 @@ interface LayersPanelProps {
   onToggleAll: (enable: boolean) => void;
 }
 
-const LAYER_ICONS: Record<string, React.ComponentType<{ className?: string }>> = {
+const LAYER_ICONS: Record<string, React.ComponentType<{ className?: string; style?: React.CSSProperties }>> = {
   terrain: Mountain,
   'flood-depth': Waves,
   velocity: Wind,
