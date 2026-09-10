@@ -234,6 +234,8 @@ export default function App() {
             <ReportPanel
               scenario={scenario}
               simulationStatus={simulationStatus}
+              locations={locations}
+              settings={settings}
             />
           )}
 
